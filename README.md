@@ -9,7 +9,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-https://github.com/gjbae1212/hit-counter
+
 
 - 🔭 I am currently a student in the Medical IT Engineering department at Soonchunhyang University.
 - 🌱 I am currently interested in image processing and deep learning, and I am studying it.
