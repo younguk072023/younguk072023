@@ -25,8 +25,18 @@
 
 <div align="center">
 
-### **Contribution Snake 🐍**
+<div align="center">
 
-![snake gif](https://github.com/younguk072023/younguk072023/blob/output/github-contribution-grid-snake.svg)
+### **Top Languages Used 🏆**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younguk072023&layout=compact&theme=radical)
+
+</div>
+
+<div align="center">
+
+### **GitHub Stats 📊**
+
+![영욱의 GitHub Stats](https://github-readme-stats.vercel.app/api?username=younguk072023&show_icons=true&theme=radical)
 
 </div>
