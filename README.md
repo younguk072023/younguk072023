@@ -1,5 +1,4 @@
-### 영욱 깃허브 👋👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=영욱 깃허브 👋👋&fontSize=90" />
 
 <!--
 **younguk072023/younguk072023** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
