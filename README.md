@@ -3,6 +3,7 @@
 <!--
 **younguk072023/younguk072023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Skill
 <!-- 깃허브 아이콘 배지들 -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -13,5 +14,7 @@
 
 - 🔭 I am currently a student in the Medical IT Engineering department at Soonchunhyang University.
 - 🌱 I am currently interested in image processing and deep learning, and I am studying it.
+
+- 
 
 
