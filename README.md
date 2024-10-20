@@ -21,3 +21,12 @@
 
 - 🔭 I am currently a student in the Medical IT Engineering department at Soonchunhyang University.
 - 🌱 I am currently interested in image processing and deep learning, and I am studying it.
+
+
+<div align="center">
+
+### **Contribution Snake 🐍**
+
+![snake gif](https://github.com/younguk072023/younguk072023/blob/output/github-contribution-grid-snake.svg)
+
+</div>
