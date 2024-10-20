@@ -40,3 +40,18 @@
 ![영욱의 GitHub Stats](https://github-readme-stats.vercel.app/api?username=younguk072023&show_icons=true&theme=radical)
 
 </div>
+
+
+<div align="center">
+
+### **My Projects 🚀**
+
+<a href="https://github.com/your-username/project1">
+  <img src="https://img.shields.io/badge/-Project1-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://github.com/your-username/project2">
+  <img src="https://img.shields.io/badge/-Project2-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
