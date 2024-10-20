@@ -22,25 +22,24 @@
 - 🔭 I am currently a student in the Medical IT Engineering department at Soonchunhyang University.
 - 🌱 I am currently interested in image processing and deep learning, and I am studying it.
 
+
 <div align="center">
 
-<table>
-  <tr>
-    <td>
+<div align="center">
 
 ### **Top Languages Used 🏆**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younguk072023&layout=compact&theme=radical)
 
-    </td>
-    <td>
+</div>
+
+<div align="center">
 
 ### **GitHub Stats 📊**
 
 ![영욱의 GitHub Stats](https://github-readme-stats.vercel.app/api?username=younguk072023&show_icons=true&theme=radical)
 
-    </td>
-  </tr>
-</table>
-
 </div>
+
+
+<div align="center">
