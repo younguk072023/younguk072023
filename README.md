@@ -43,9 +43,6 @@
 
 ![영욱의 GitHub Stats](https://github-readme-stats.vercel.app/api?username=younguk072023&show_icons=true&theme=radical)
 
-### 📘 알고리즘 풀이 현황
-
-#### 🔹 백준 (BOJ)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=young072023)](https://solved.ac/young072023)  
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=young072023&theme=warm)
