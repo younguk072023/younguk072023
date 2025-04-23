@@ -1,10 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YoungUk%20_github&fontSize=50" />
 
-
-<!--
-**younguk072023/younguk072023** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
--->
-
 <div align="center">
 
 ### **Skill 💻**
@@ -26,26 +21,26 @@
 - 🔭 I am currently a student in the Medical IT Engineering department at Soonchunhyang University.
 - 🌱 I am currently interested in image processing and deep learning, and I am studying it.
 
+---
 
 <div align="center">
 
-<div align="center">
-
-### **Top Languages Used 🏆**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younguk072023&layout=compact&theme=radical)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younguk072023&layout=compact&theme=radical" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=younguk072023&show_icons=true&theme=radical" /></td>
+  </tr>
+</table>
 
 </div>
 
+---
+
 <div align="center">
 
-### **GitHub Stats 📊**
-
-![영욱의 GitHub Stats](https://github-readme-stats.vercel.app/api?username=younguk072023&show_icons=true&theme=radical)
-
+### 📘 Algorithm Practice – BOJ (백준)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=young072023)](https://solved.ac/young072023)  
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=young072023&theme=warm)
-
 
 </div>
