@@ -38,7 +38,7 @@
 
 <div align="center">
 
-### 📘 Algorithm Practice – BOJ (백준)
+### 📘 Algorithm Practice 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=young072023)](https://solved.ac/young072023)  
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=young072023&theme=warm)
