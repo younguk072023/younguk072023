@@ -18,7 +18,7 @@
 
 </div>
 
-- 🔭 I am currently a student in the Medical IT Engineering department at Soonchunhyang University.
+- 🔭 I am currently pursuing a master's degree in Software Convergence at Soonchunhyang University.
 - 🌱 I am currently interested in image processing and deep learning, and I am studying it.
 
 ---
