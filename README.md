@@ -1,7 +1,9 @@
-#  My GitHub Stats
+# 📊 My GitHub Stats
 
-![Younguk's GitHub stats](https://github-readme-stats.vercel.app/api?username=younguk072023&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=younguk072023&show_icons=true&theme=radical" alt="Younguk's GitHub stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younguk072023&layout=compact&theme=radical)
-
-![Younguk's github trophies](https://github-profile-trophy.vercel.app/?username=younguk072023&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=younguk072023&theme=radical" alt="Younguk's github trophies" />
+</p>
